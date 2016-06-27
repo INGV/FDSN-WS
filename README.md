@@ -10,10 +10,10 @@ International Federation of Digital Seismograph Networks (FDSN) [2]:
  * [fdsnws-station](http://webservices.rm.ingv.it/fdsnws/station/1/)
  * [fdsnws-dataselect](http://webservices.rm.ingv.it/fdsnws/dataselect/1/)
  * [fdsnws-event](http://webservices.rm.ingv.it/fdsnws/event/1/)
- 
- The implementation should be fully comply with with the specification [4]. 
- 
- In case of ambiguities or problems with the provided services, please report via the issue tracking system of this repository.
+
+The implementation should be fully comply with with the specification [4]. 
+
+In case of ambiguities or problems with the provided services, please report via the issue tracking system of this repository.
 
 References:
 
