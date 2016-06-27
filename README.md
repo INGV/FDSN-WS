@@ -11,7 +11,7 @@ International Federation of Digital Seismograph Networks (FDSN) [2]:
  * [fdsnws-dataselect](http://webservices.rm.ingv.it/fdsnws/dataselect/1/)
  * [fdsnws-event](http://webservices.rm.ingv.it/fdsnws/event/1/)
 
-The implementation should be fully comply with with the specification [4]. 
+The implementation should be fully compliant with the FDSN specification version 1.1 [4]. 
 
 In case of ambiguities or problems with the provided services, please report via the issue tracking system of this repository.
 
